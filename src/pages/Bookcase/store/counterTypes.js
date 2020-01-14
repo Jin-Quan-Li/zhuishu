@@ -1,0 +1,1 @@
+export const INIT_COLLECTION = 'init_collection';

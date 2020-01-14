@@ -1,0 +1,1 @@
+export const INIT_RANKING = 'init_ranking';
